@@ -1,4 +1,4 @@
-# Websocket example
+# Django REST API example
 
 ## Requirements
 Python 3
